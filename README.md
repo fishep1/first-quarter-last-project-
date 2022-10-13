@@ -14,4 +14,4 @@
 5. Возвращаем новый заполненый массив как результат
 
 ### Блок-схема
-![Диаграмма](/Diagram.drawio.pngC:\Users\fishep``\Desktop\GeekBrains_1quarter\LastProject\Diagram.drawio.png)
+![Диаграмма](/Diagram.drawio.png)
